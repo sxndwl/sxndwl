@@ -1,4 +1,4 @@
-- 🔭 I'm currently working on mobile version -sxndwl-s-weather
+- 🔭 I'm currently working on mobile version sxndwl's notes
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about Html, css
 - 🤔 I’m looking for help with JavaScript)
